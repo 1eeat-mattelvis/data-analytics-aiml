@@ -1,1 +1,1 @@
-Welcome to Data Analytics AiMl GitHub profile!
+Welcome to data analytics aiml GitHub profile!
